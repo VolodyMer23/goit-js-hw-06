@@ -22,3 +22,11 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.task__list {
+background-color: #A8A8A8;
+}
+
+.task__item {
+list-style: none;
+}
